@@ -1,4 +1,4 @@
-# VideoDownloader-winver-tool
+# VideoDownloader-tool(winver)
 This is a Package for downloading .m3u8 or .mp4 file
 
 ######## Quick start for this Package ########
