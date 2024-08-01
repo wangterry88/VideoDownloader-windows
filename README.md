@@ -46,7 +46,7 @@ If you encounter any issues, ensure that:
 
 ## Support
 
-For additional support or questions, please contact [support@example.com](mailto:t36641@gmail.com).
+For additional support or questions, please contact [t36641@gmail.com](mailto:t36641@gmail.com).
 
 ## License
 
